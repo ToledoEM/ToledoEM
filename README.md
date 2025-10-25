@@ -5,6 +5,5 @@
 - 🖥️ Computational Biology + Systems Biology + Genomics are my principles
 - 🏛️ Worked in academia, and in early research within pharma.
 - 🤝 Always keeping a feet in academic collaborations - papers, student interships and rotations, supervision... *et al*.
-- 🌐 [Website](https://toledoem.github.io)
 - 📚 [Publications](https://scholar.google.com/citations?user=tQvU5PIAAAAJ&hl=en)
 - 💼 [LinkedIn](https://www.linkedin.com/in/enrique-toledo/)
