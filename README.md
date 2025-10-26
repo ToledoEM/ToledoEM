@@ -1,7 +1,7 @@
 ## Hola, This is my github
 
 - 🧬 Scientist Cellular and Molecular Biology, most of the time with a flavour of neurobiology, developmental neurobiology, and cardio-metabolism in many tissues.
-- 🧪 Genomics methodologies practicioner, previosly in the bench then in the computing side.
+- 🧪 Genomics methodologies practitioner, previously in the bench then in the computing side.
 - 🖥️ Computational Biology + Systems Biology + Genomics are my principles
 - 🏛️ Worked in academia, and in early research within pharma.
 - 🤝 Always keeping a feet in academic collaborations - papers, student interships and rotations, supervision... *et al*.
