@@ -9,4 +9,9 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/enrique-toledo/)
 - 👾 [Website](https://toledoem.github.io/)
 
-Feel free to [send me an email](mailto:enriquetoledom@outlook.com), [connect on LinkedIn](https://www.linkedin.com/in/enrique-toledo/), or [read more about my work and side projects](https://toledoem.github.io/).
+Feel free to [send me an email](mailto:enriquetoledom@outlook.com), [connect on LinkedIn](https://www.linkedin.com/in/enrique-toledo/), or [read more about my work and side projects](https://toledoem.github.io/).     
+
+
+
+
+<sub>*Some of these repositories are for fun, other for science and a few more for very specific solutions*</sub>
