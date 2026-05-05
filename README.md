@@ -19,10 +19,11 @@
 
 
 #### Utilities, automation, and self-hosting.  
+- [Delete_ollamahistory_chat](https://github.com/ToledoEM/Delete_ollamahistory_chat) – clean Ollama history  
 - [StaticSiteImageOptimizer](https://github.com/ToledoEM/StaticSiteImageOptimizer) – WebP + refactor  
 - [QuickExifPurge](https://github.com/ToledoEM/QuickExifPurge) – remove image metadata  
-- [Delete_ollamahistory_chat](https://github.com/ToledoEM/Delete_ollamahistory_chat) – clean Ollama history  
 - [ManyFoldHA_app](https://github.com/ToledoEM/ManyFoldHA_app) – 3D model manager  
+- [STLshaper](https://github.com/ToledoEM/stlshaper) -  a 3D mesh deformation tool
 - [home-assistant-ubibot](https://github.com/ToledoEM/home-assistant-ubibot) – Ubibot integration  
 - [zigbee_mesh_network](https://github.com/ToledoEM/zigbee_mesh_network) – network export/visualization  
 - [My dev version of Home Assistant Addons for me](https://github.com/ToledoEM/hassio-addons-repository) - Bentopdf, Manyfold3d, NGINX_webserver_proxy, Stirling-pdf (2 versions)
