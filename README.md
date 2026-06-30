@@ -1,6 +1,6 @@
 ## Hola 👋 This is my GitHub
 
-- 🧬 Scientist trained in cellular and molecular biology, often working at the intersection of neurobiology, development, and cardio-metabolism across tissues.
+- 🧬 Scientist trained in cellular and molecular biology, often working at the intersection of neurobiology, development, and cardio-metabolism across tissues.  
 - 🧪 Genomics practitioner by background — from wet lab work to computational and data-driven analysis.
 - 🖥️ Computational biology and Systems biology guide how I approach complex biological questions.
 - Playing with ML before it was called like that 
@@ -26,7 +26,9 @@
 - [STLshaper](https://github.com/ToledoEM/stlshaper) -  a 3D mesh deformation tool
 - [home-assistant-ubibot](https://github.com/ToledoEM/home-assistant-ubibot) – Ubibot integration  
 - [zigbee_mesh_network](https://github.com/ToledoEM/zigbee_mesh_network) – network export/visualization  
-- [My dev version of Home Assistant Addons for me](https://github.com/ToledoEM/hassio-addons-repository) - Bentopdf, Manyfold3d, NGINX_webserver_proxy, Stirling-pdf (2 versions)
+- [My dev version of Home Assistant Addons for me](https://github.com/ToledoEM/hassio-addons-repository) - Bentopdf, Manyfold3d, NGINX_webserver_proxy, Stirling-pdf (3 versions)
+-  [Repo CatalogueCanvas](https://github.com/CatalogueCanvas) - A Solution for FAIR digital art work storage and cataloguing  
+-  [Website CatalogueCanvas](https://cataloguecanvas.app/)
 
 <sub>*Some of these repositories are for fun, other for science and a few more for very specific solutions*</sub>
 
