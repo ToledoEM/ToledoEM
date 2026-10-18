@@ -17,6 +17,9 @@
 - [msigdf](https://github.com/ToledoEM/msigdf) – tidy MSigDB gene sets  
 - [Bash-blind-rename](https://github.com/ToledoEM/Bash-blind-rename) – bias-free file renaming for manual image quantification
 
+#### Semi-Scientific
+
+- [linXiv-web](https://github.com/ToledoEM/linXiv-web) - Unofficial linXiv component for sefl-hosting and a web UI. Papers - pdf - manager for self-hosting 
 
 #### Utilities, automation, and self-hosting.  
 - [Delete_ollamahistory_chat](https://github.com/ToledoEM/Delete_ollamahistory_chat) – clean Ollama history  
@@ -26,9 +29,9 @@
 - [STLshaper](https://github.com/ToledoEM/stlshaper) -  a 3D mesh deformation tool
 - [home-assistant-ubibot](https://github.com/ToledoEM/home-assistant-ubibot) – Ubibot integration  
 - [zigbee_mesh_network](https://github.com/ToledoEM/zigbee_mesh_network) – network export/visualization  
-- [My dev version of Home Assistant Addons for me](https://github.com/ToledoEM/hassio-addons-repository) - Bentopdf, Manyfold3d, NGINX_webserver_proxy, Stirling-pdf (3 versions)
--  [Repo CatalogueCanvas](https://github.com/CatalogueCanvas) - A Solution for FAIR digital art work storage and cataloguing  
--  [Website CatalogueCanvas](https://cataloguecanvas.app/)
+- [My dev version of Home Assistant Addons for me](https://github.com/ToledoEM/hassio-addons-repository) - Bentopdf, Manyfold3d, NGINX_webserver_proxy, Stirling-pdf, and more.
+- [Repo CatalogueCanvas](https://github.com/CatalogueCanvas) - A Solution for FAIR digital art work storage and cataloguing  
+- [Website CatalogueCanvas](https://cataloguecanvas.app/)
 
 <sub>*Some of these repositories are for fun, other for science and a few more for very specific solutions*</sub>
 
