@@ -1,8 +1,8 @@
 ## Hola 👋 This is my GitHub
 
-- 🧬 Scientist trained in cellular and molecular biology, often working at the intersection of neurobiology, development, and cardio-metabolism across tissues.  
-- 🧪 Genomics practitioner by background — from wet lab work to computational and data-driven analysis.
-- 🖥️ Computational biology and Systems biology guide how I approach complex biological questions.
+- 🧬 Scientist trained in cellular and molecular biology, mostly working on genomics, neurobiology, development, and cardio-metabolism across tissues.  
+- 🧪 Genomics practitioner by background, wet lab first, then computational analysis.
+- 🖥️ I approach biological questions through Computational and Systems biology.
 - Playing with ML before it was called like that 
 - 🏛️ Experience across academia and early research in pharma.
 - 🤝 Strong believer in academic–industry collaboration: publications, student supervision, internships, and research partnerships.
@@ -22,17 +22,22 @@
 - [linXiv-web](https://github.com/ToledoEM/linXiv-web) - Unofficial linXiv component for sefl-hosting and a web UI. Papers - pdf - manager for self-hosting 
 
 #### Utilities, automation, and self-hosting.  
+
+##### Home Assistant
+- [ManyFoldHA_app](https://github.com/ToledoEM/ManyFoldHA_app) – 3D model manager  
+- [home-assistant-ubibot](https://github.com/ToledoEM/home-assistant-ubibot) – Ubibot integration  
+- [GPSNTPHomeBridge](https://github.com/ToledoEM/GPSNTPHomeBridge) – GPS + NTP server monitoring for Home Assistant, available in HACS
+- [zigbee_mesh_network](https://github.com/ToledoEM/zigbee_mesh_network) – Export ZHA network for visualization or analysis 
+- [My dev version of Home Assistant Addons for me](https://github.com/ToledoEM/hassio-addons-repository) - Bentopdf, Manyfold3d, NGINX_webserver_proxy, Stirling-pdf, and more.
+
+##### Others
 - [Delete_ollamahistory_chat](https://github.com/ToledoEM/Delete_ollamahistory_chat) – clean Ollama history  
 - [StaticSiteImageOptimizer](https://github.com/ToledoEM/StaticSiteImageOptimizer) – WebP + refactor  
 - [QuickExifPurge](https://github.com/ToledoEM/QuickExifPurge) – remove image metadata  
-- [ManyFoldHA_app](https://github.com/ToledoEM/ManyFoldHA_app) – 3D model manager  
 - [STLshaper](https://github.com/ToledoEM/stlshaper) -  a 3D mesh deformation tool
-- [home-assistant-ubibot](https://github.com/ToledoEM/home-assistant-ubibot) – Ubibot integration  
-- [zigbee_mesh_network](https://github.com/ToledoEM/zigbee_mesh_network) – network export/visualization  
-- [My dev version of Home Assistant Addons for me](https://github.com/ToledoEM/hassio-addons-repository) - Bentopdf, Manyfold3d, NGINX_webserver_proxy, Stirling-pdf, and more.
 - [Repo CatalogueCanvas](https://github.com/CatalogueCanvas) - A Solution for FAIR digital art work storage and cataloguing  
 - [Website CatalogueCanvas](https://cataloguecanvas.app/)
 
 <sub>*Some of these repositories are for fun, other for science and a few more for very specific solutions*</sub>
 
-Feel free to [send me an email](mailto:enriquetoledom@outlook.com), [connect on LinkedIn](https://www.linkedin.com/in/enrique-toledo/), or [read more about my work and side projects](https://toledoem.github.io/).
+[Send me an email](mailto:enriquetoledom@outlook.com), [connect on LinkedIn](https://www.linkedin.com/in/enrique-toledo/), or [read more about my work and side projects](https://toledoem.github.io/).
