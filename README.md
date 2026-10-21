@@ -24,11 +24,10 @@
 #### Utilities, automation, and self-hosting.  
 
 ##### Home Assistant
-- [ManyFoldHA_app](https://github.com/ToledoEM/ManyFoldHA_app) – 3D model manager  
 - [home-assistant-ubibot](https://github.com/ToledoEM/home-assistant-ubibot) – Ubibot integration  
 - [GPSNTPHomeBridge](https://github.com/ToledoEM/GPSNTPHomeBridge) – GPS + NTP server monitoring for Home Assistant, available in HACS
 - [zigbee_mesh_network](https://github.com/ToledoEM/zigbee_mesh_network) – Export ZHA network for visualization or analysis 
-- [My dev version of Home Assistant Addons for me](https://github.com/ToledoEM/hassio-addons-repository) - Bentopdf, Manyfold3d, NGINX_webserver_proxy, Stirling-pdf, and more.
+- [My Home Assistant Addons Repository](https://github.com/ToledoEM/hassio-addons-repository) - Bentopdf, Manyfold3d, NGINX_webserver_proxy, Stirling-pdf, and more.
 
 ##### Others
 - [Delete_ollamahistory_chat](https://github.com/ToledoEM/Delete_ollamahistory_chat) – clean Ollama history  
