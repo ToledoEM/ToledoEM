@@ -1,10 +1,10 @@
 ## Hola 👋 This is my GitHub
 
 - 🧬 Scientist trained in cellular and molecular biology, mostly working on genomics, neurobiology, development, and cardio-metabolism across tissues.  
-- 🧪 Genomics practitioner by background, wet lab first, then computational analysis.
+- 🧪 Genomics practitioner by background, wet lab, computational analysis.
 - 🖥️ I approach biological questions through Computational and Systems biology.
-- Playing with ML before it was called like that 
-- 🏛️ Experience across academia and early research in pharma.
+- 🔩 Applying ML/AI in biological problems.  
+- 🏛️ Experience across academia and research in industry.
 - 🤝 Strong believer in academic–industry collaboration: publications, student supervision, internships, and research partnerships.
 - 📚 [Publications](https://scholar.google.com/citations?user=tQvU5PIAAAAJ&hl=en)
 - 💼 [LinkedIn](https://www.linkedin.com/in/enrique-toledo/)
@@ -12,6 +12,7 @@
 
 #### Science stuff: Statistical tools and reproducible analysis
 
+- [e-means](https://github.com/ToledoEM/emeansR) - R (and Rust) implementation of super fast clustering method for big datasets **e-means**
 - [xkcd](https://github.com/ToledoEM/xkcd) – XKCD hand-drawn ggplot2 aesthetics  
 - [PubMatrixR-v2](https://github.com/ToledoEM/PubMatrixR-v2) – PubMed co-occurrence matrices [Also for python](https://github.com/ToledoEM/PubMatrixPython) 
 - [msigdf](https://github.com/ToledoEM/msigdf) – tidy MSigDB gene sets  
@@ -19,7 +20,7 @@
 
 #### Semi-Scientific
 
-- [linXiv-web](https://github.com/ToledoEM/linXiv-web) - Unofficial linXiv component for sefl-hosting and a web UI. Papers - pdf - manager for self-hosting 
+- [linXiv-web](https://github.com/ToledoEM/linXiv-web) - Unofficial linXiv component for self-hosting and a web UI. Papers - pdf - manager for self-hosting (a reference manager in the making)
 
 #### Utilities, automation, and self-hosting.  
 
@@ -37,6 +38,6 @@
 - [Repo CatalogueCanvas](https://github.com/CatalogueCanvas) - A Solution for FAIR digital art work storage and cataloguing  
 - [Website CatalogueCanvas](https://cataloguecanvas.app/)
 
-<sub>*Some of these repositories are for fun, other for science and a few more for very specific solutions*</sub>
+<sub>*These repositories are for fun, other for science and a few more for very specific solutions*</sub>
 
 [Send me an email](mailto:enriquetoledom@outlook.com), [connect on LinkedIn](https://www.linkedin.com/in/enrique-toledo/), or [read more about my work and side projects](https://toledoem.github.io/).
