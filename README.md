@@ -20,7 +20,7 @@
 
 #### Semi-Scientific
 
-- [linXiv-web](https://github.com/ToledoEM/linXiv-web) - Unofficial linXiv component for self-hosting and a web UI. Papers - pdf - manager for self-hosting (a reference manager in the making)
+- [linXiv-web](https://github.com/ToledoEM/linXiv-web) - Unofficial linXiv component for self-hosting and a web UI. Papers - pdf - manager for **self-hosting** (a reference/paper pdf manager)
 
 #### Utilities, automation, and self-hosting.  
 
@@ -37,6 +37,8 @@
 - [STLshaper](https://github.com/ToledoEM/stlshaper) -  a 3D mesh deformation tool
 - [Repo CatalogueCanvas](https://github.com/CatalogueCanvas) - A Solution for FAIR digital art work storage and cataloguing  
 - [Website CatalogueCanvas](https://cataloguecanvas.app/)
+- [GNSS NTP Dashboard](https://github.com/ToledoEM/gnss-ntp-graphs) - A self-hosted solution to keep track of your GPS-disciplined NTP server
+
 
 <sub>*These repositories are for fun, other for science and a few more for very specific solutions*</sub>
 
